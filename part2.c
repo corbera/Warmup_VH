@@ -58,7 +58,7 @@ int is_in_cache(uint64_t virt_addr)
 /*
  * flush_cache
  *
- * Flush the L1 cache
+ * Flush the L3 cache
  *
  * Inputs: None
  * Output: None
